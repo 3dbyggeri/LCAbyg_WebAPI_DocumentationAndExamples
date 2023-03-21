@@ -1,0 +1,563 @@
+[
+  {
+    "Node": {
+      "Element": {
+        "id": "654d4204-990f-4b34-a74d-47e87bcd0d16",
+        "name": {
+          "English": "Strip footings",
+          "Danish": "Randfundamenter",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "Norwegian": "",
+          "Danish": "",
+          "German": "",
+          "English": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "94e59b91-bbe0-413f-922a-a4fd2c187b6d",
+        "name": {
+          "German": "",
+          "English": "Ground floor slab",
+          "Danish": "Terrændæk"
+        },
+        "source": "User",
+        "comment": {
+          "Norwegian": "",
+          "Danish": "",
+          "English": "",
+          "German": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "f5bb4ef6-49c3-4c5a-a0b9-2765ccfd4de9",
+        "name": {
+          "German": "",
+          "Danish": "Ydervægge",
+          "English": "External walls"
+        },
+        "source": "User",
+        "comment": {
+          "Norwegian": "",
+          "Danish": "",
+          "German": "",
+          "English": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "37a8987d-7344-46b0-bc40-e314d5d44a7a",
+        "name": {
+          "German": "",
+          "Danish": "Indervægge",
+          "English": "Internal walls"
+        },
+        "source": "User",
+        "comment": {
+          "Danish": "",
+          "English": "",
+          "German": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "91329025-d117-4a64-a577-58bb1d76d82e",
+        "name": {
+          "German": "",
+          "English": "Roof",
+          "Danish": "Tagkonstruktion"
+        },
+        "source": "User",
+        "comment": {
+          "Danish": "",
+          "Norwegian": "",
+          "German": "",
+          "English": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "05c32e5f-eef5-400d-aa36-5b6780fd76a8",
+        "name": {
+          "English": "Windows and external doors",
+          "Danish": "Vinduer og udvendige døre",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "English": "",
+          "German": "",
+          "Norwegian": "",
+          "Danish": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "12c86f82-7c69-4cd3-b54f-9ead68120d35",
+        "name": {
+          "English": "Internal doors",
+          "German": "",
+          "Danish": "Indvendige døre"
+        },
+        "source": "User",
+        "comment": {
+          "Norwegian": "",
+          "German": "",
+          "English": "",
+          "Danish": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "7c301d2c-a2bc-4eff-a08e-b5c020086ae8",
+        "name": {
+          "Danish": "Vand og afløb",
+          "English": "Water and piping",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "Danish": "",
+          "German": "",
+          "English": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "fab45b6c-aa08-40e0-baf3-8d6fac440358",
+        "name": {
+          "Danish": "Varmeanlæg",
+          "German": "",
+          "English": "Heating unit"
+        },
+        "source": "User",
+        "comment": {
+          "Norwegian": "",
+          "English": "",
+          "Danish": "",
+          "German": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "ca7f0525-c55b-4fff-a75e-bb8083919f39",
+        "name": {
+          "Danish": "Gulvarmeanlæg",
+          "German": "",
+          "English": "Floor heating"
+        },
+        "source": "User",
+        "comment": {
+          "German": "",
+          "Norwegian": "",
+          "English": "",
+          "Danish": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "821a2fe7-8db9-4c02-b4b7-c726c4437a27",
+        "name": {
+          "English": "Ventilation unit",
+          "German": "",
+          "Danish": "Ventilationsanlæg"
+        },
+        "source": "User",
+        "comment": {
+          "English": "",
+          "Danish": "",
+          "Norwegian": "",
+          "German": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "c77d73d4-0a5b-4d52-8ae8-fd97a5e52c84",
+          "amount": 59.9,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "654d4204-990f-4b34-a74d-47e87bcd0d16",
+      "c5ab6cd4-1137-5612-a423-cd8beb293457"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "d9c325f7-c51d-4c03-905d-e3d88ffffb72",
+          "amount": 183.61,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "94e59b91-bbe0-413f-922a-a4fd2c187b6d",
+      "c1f43e31-d3ea-567a-8c39-79239dc9395b"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "160a85cb-465c-4cd3-b369-b509321e0226",
+          "amount": 183.61,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "94e59b91-bbe0-413f-922a-a4fd2c187b6d",
+      "ce1f4896-861d-569f-8d21-7e255221e796"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "26527d58-94e0-4a07-8e93-d881a54634df",
+          "amount": 183.61,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "94e59b91-bbe0-413f-922a-a4fd2c187b6d",
+      "e510a1e4-c95b-5c6d-9b5f-e291aed58978"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "53447bed-500c-4e5e-ae60-32a4d4205791",
+          "amount": 124.47,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "f5bb4ef6-49c3-4c5a-a0b9-2765ccfd4de9",
+      "9f4c228c-3507-5f6e-a993-2dc84ffb5319"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "a119676f-e636-4b05-b65e-faab3f83be23",
+          "amount": 124.47,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "f5bb4ef6-49c3-4c5a-a0b9-2765ccfd4de9",
+      "295e2b38-3bd4-5e0d-8009-ea0be40e7600"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "e7400f0a-c965-46ef-aba3-f0cad85b2377",
+          "amount": 124.47,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "f5bb4ef6-49c3-4c5a-a0b9-2765ccfd4de9",
+      "f2ce8b16-7c8e-56e0-8a85-136a20d3bb26"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "43d16a3f-1edc-421e-a856-f45c0afc45d5",
+          "amount": 121.2,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "37a8987d-7344-46b0-bc40-e314d5d44a7a",
+      "9f4c228c-3507-5f6e-a993-2dc84ffb5319"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "8dcf8f1d-d7f3-4efc-9616-60b845f0e904",
+          "amount": 121.2,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "37a8987d-7344-46b0-bc40-e314d5d44a7a",
+      "f0e989fa-f0dd-500f-ad01-5a37ef3a361d"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "dffb87c3-3e49-4b8a-bd19-4a44347351c7",
+          "amount": 121.2,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "37a8987d-7344-46b0-bc40-e314d5d44a7a",
+      "9f4c228c-3507-5f6e-a993-2dc84ffb5319"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "f5e266c4-c8e5-4885-835f-d43789b9a632",
+          "amount": 251.16,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "91329025-d117-4a64-a577-58bb1d76d82e",
+      "6fe12a41-b527-50da-9358-0c42539ec684"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "e6e8f5c2-78a3-4fb7-ab0d-19742bf89907",
+          "amount": 251.16,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "91329025-d117-4a64-a577-58bb1d76d82e",
+      "e196e6c4-698f-437e-8a95-69e29db357a3"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "32ec5065-ced0-438b-8a2f-b292b790bd60",
+          "amount": 251.16,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "91329025-d117-4a64-a577-58bb1d76d82e",
+      "10aa622f-a6c9-5f76-88cc-eceb7b22526f"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "8a26bf8c-1d3e-4fe4-99bf-ac0f4d1a5288",
+          "amount": 18.4,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "05c32e5f-eef5-400d-aa36-5b6780fd76a8",
+      "828ed54b-cade-553a-8f79-8123e1b42534"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "e396b3af-9755-4b58-8b0a-ae4a76e76be8",
+          "amount": 18.4,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "05c32e5f-eef5-400d-aa36-5b6780fd76a8",
+      "e5e40667-cd81-51d3-8ffc-32c2f2ef9c72"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "ff5df567-e419-48d3-88ad-4cde8410e16e",
+          "amount": 9.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "12c86f82-7c69-4cd3-b54f-9ead68120d35",
+      "77c8e9c9-2b33-5a9e-b14a-be459d9f0643"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "0d47a766-f2ea-4e08-b015-c99d3a01bf7e",
+          "amount": 1.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "12c86f82-7c69-4cd3-b54f-9ead68120d35",
+      "92fee8be-a171-4957-a73c-990e120e2d60"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "43a3d3b4-5d0c-4459-bd0c-28c4ff5b52e5",
+          "amount": 15.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "7c301d2c-a2bc-4eff-a08e-b5c020086ae8",
+      "196ca238-852b-5a29-ae01-60a70db73f1a"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "56bec0d5-1863-4d45-84cf-7a66d1c340f0",
+          "amount": 1.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "fab45b6c-aa08-40e0-baf3-8d6fac440358",
+      "90751522-ca91-5780-97bb-c5f90b7ac0c1"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "a56e39fc-7fd6-4b35-852a-071666644706",
+          "amount": 1.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "fab45b6c-aa08-40e0-baf3-8d6fac440358",
+      "fbbc687d-9daa-4d66-ba18-0fab37aaa0f2"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "a88efac9-5f5c-4b19-b607-30f06b5c952b",
+          "amount": 184.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "ca7f0525-c55b-4fff-a75e-bb8083919f39",
+      "1daa8b47-a366-5bf3-89ab-e8df5720b08f"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "da35800d-a159-4658-b93e-007e6d467175",
+          "amount": 1.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "821a2fe7-8db9-4c02-b4b7-c726c4437a27",
+      "d76ae856-66df-52f1-881d-8cd21dbd40dc"
+    ]
+  }
+]

@@ -1,0 +1,1550 @@
+[
+  {
+    "Node": {
+      "Element": {
+        "id": "19ee65f3-f092-4093-9881-5b49eec51cff",
+        "name": {
+          "German": "",
+          "Danish": "Randfundament, 460mm teglmur (2 sten)",
+          "English": "Foundation, 460mm brick wall (2 layers)"
+        },
+        "source": "User",
+        "comment": {
+          "Danish": "",
+          "Norwegian": "",
+          "English": "",
+          "German": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "e66f2d85-e03b-4d4a-a959-f7f0687e8e40",
+        "name": {
+          "Danish": "Randfundament, 930mm teglmur (4 sten)",
+          "English": "Foundation, 930mm brick wall (4 layers)",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "Danish": "",
+          "Norwegian": "",
+          "English": "",
+          "German": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "7a8bdbce-832f-4b9c-8985-f669771b478d",
+        "name": {
+          "Danish": "Randfundament (bagtrappe), 460mm teglmur (2 sten)",
+          "English": "Foundation (back staircase), 460mm brick wall (2 layers)",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "Danish": "",
+          "Norwegian": "",
+          "English": "",
+          "German": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "8501c49d-74ac-4e7c-bd30-e536f967eca3",
+        "name": {
+          "English": "External wall, Ground floor",
+          "German": "",
+          "Danish": "Ydervæg, Stue"
+        },
+        "source": "User",
+        "comment": {
+          "English": "",
+          "German": "",
+          "Danish": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "b06594df-a166-46e8-b60c-9ca6d2629162",
+        "name": {
+          "Danish": "Brystning, stue",
+          "English": "Parapet, ground floor",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "German": "",
+          "Danish": "",
+          "Norwegian": "",
+          "English": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "4522c982-0e1d-4263-b2c4-3427d1d3bf9b",
+        "name": {
+          "Danish": "Gavl, stue",
+          "English": "End wall, ground floor",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "German": "",
+          "English": "",
+          "Danish": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "2140867b-1dc5-46c6-9d78-e8fb37d5f8b8",
+        "name": {
+          "English": "External wall, 1. floor",
+          "Danish": "Ydervæg, 1. sal",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "Norwegian": "",
+          "German": "",
+          "English": "",
+          "Danish": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "7dc7feef-5aad-4e91-a321-838d368260eb",
+        "name": {
+          "Danish": "Brystning, 1. sal",
+          "German": "",
+          "English": "Parapet, 1. floor"
+        },
+        "source": "User",
+        "comment": {
+          "English": "",
+          "Danish": "",
+          "German": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "982dd343-0bda-4fa5-a536-0422c664dfda",
+        "name": {
+          "English": "End wall, 1. floor",
+          "German": "",
+          "Danish": "Gavl, 1. sal"
+        },
+        "source": "User",
+        "comment": {
+          "English": "",
+          "Danish": "",
+          "German": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "4ee84260-52dc-4587-809b-dfd4af3d5ed6",
+        "name": {
+          "English": "Main staircase, from 1. floor",
+          "Danish": "Hovedtrappe, fra 1. sal",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "Danish": "",
+          "English": "",
+          "German": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "9a1f78a4-c0ae-41db-9aab-d5f3531b63c7",
+        "name": {
+          "English": "Back staircases, from 1. floor",
+          "German": "",
+          "Danish": "Bagtrappe, fra 1. sal"
+        },
+        "source": "User",
+        "comment": {
+          "Norwegian": "",
+          "English": "",
+          "Danish": "",
+          "German": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "e2441b19-fb0d-4ecd-804a-d23fb022d93b",
+        "name": {
+          "Danish": "Ydervæg, 2. sal",
+          "English": "External wall, 2. floor",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "English": "",
+          "Norwegian": "",
+          "German": "",
+          "Danish": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "5d255e68-2800-4aa8-88ca-80d5a38dc429",
+        "name": {
+          "Danish": "Brystning, 2. sal",
+          "German": "",
+          "English": "Parapet, 2. floor"
+        },
+        "source": "User",
+        "comment": {
+          "English": "",
+          "Danish": "",
+          "Norwegian": "",
+          "German": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "1bcd4ba9-3ede-4d9e-b406-3456b034aad2",
+        "name": {
+          "English": "End wall, 2. floor",
+          "German": "",
+          "Danish": "Gavl, 2. sal"
+        },
+        "source": "User",
+        "comment": {
+          "Danish": "",
+          "English": "",
+          "German": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "f81d6c5c-782c-4b7b-9a39-e4fca481e628",
+        "name": {
+          "English": "Staircase, attic, back stairs",
+          "German": "",
+          "Danish": "Bagtrappe, tagetage"
+        },
+        "source": "User",
+        "comment": {
+          "English": "",
+          "Norwegian": "",
+          "Danish": "",
+          "German": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "27a7b742-af17-4781-b579-f963e556b28c",
+        "name": {
+          "German": "",
+          "Danish": "Ydervæg, Hovedtrappe, stue",
+          "English": "External wall, Main staircase, ground floor"
+        },
+        "source": "User",
+        "comment": {
+          "Norwegian": "",
+          "Danish": "",
+          "English": "",
+          "German": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "bbc7ad27-2ff0-4580-9e21-e26e8a18d3c5",
+        "name": {
+          "English": "External wall, Back staircase, ground floor",
+          "German": "",
+          "Danish": "Ydervæg, Bagtrappe, stue"
+        },
+        "source": "User",
+        "comment": {
+          "Norwegian": "",
+          "German": "",
+          "Danish": "",
+          "English": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "a80a4eab-8356-4f2a-9749-b4cded5b600f",
+        "name": {
+          "English": "pitched roof",
+          "Danish": "Ydervæg, skråtag",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "German": "",
+          "English": "",
+          "Danish": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "4475d071-6a9b-4ac1-b825-31626336ab11",
+        "name": {
+          "Danish": "Gavl, Skråtag",
+          "English": "End wall, Pitched roof",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "German": "",
+          "Norwegian": "",
+          "Danish": "",
+          "English": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "2be73ddb-43ec-4e0f-9b98-dbe09016f25f",
+        "name": {
+          "German": "",
+          "Danish": "Opgang, Skråtag",
+          "English": "Staircase, Pitched roof"
+        },
+        "source": "User",
+        "comment": {
+          "Norwegian": "",
+          "German": "",
+          "Danish": "",
+          "English": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "9c623f73-e317-4615-8c98-292b07fb76bc",
+        "name": {
+          "Danish": "Ikke-bærende indv. vægge, fra stueetagen",
+          "German": "",
+          "English": "None-bearing internal walls, from ground floor"
+        },
+        "source": "User",
+        "comment": {
+          "English": "",
+          "German": "",
+          "Norwegian": "",
+          "Danish": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "ef3f75a6-eb3f-4cf3-85d6-0f10f4059e1a",
+        "name": {
+          "English": "Bearing walls, from ground floor, timber framing and 1/2 brick",
+          "German": "",
+          "Danish": "Bærende væg, fra stueetagen, bindingsværk og 1/2 mursten"
+        },
+        "source": "User",
+        "comment": {
+          "Danish": "",
+          "English": "",
+          "German": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "f2985b19-db58-48c6-a030-3152d30a55d2",
+        "name": {
+          "English": "Bearing walls, from ground floor, timber framing and 3/4 brick",
+          "Danish": "Bærende væg, fra stueetagen, bindingsværk og 3/4 mursten",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "German": "",
+          "Danish": "",
+          "Norwegian": "",
+          "English": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "c6831070-312b-4a75-bf0a-a4558bfffb23",
+        "name": {
+          "English": "Bearing walls, from ground floor,imber framing and 1 brick",
+          "Danish": "Bærende væg, fra stueetagen, bindingsværk og 1 mursten",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "Danish": "",
+          "Norwegian": "",
+          "German": "",
+          "English": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "63a169f5-558a-4e53-bb7d-4bbfaf32e78f",
+        "name": {
+          "English": "Fire-resistant walls, ground floor",
+          "German": "",
+          "Danish": "Brandhæmmende væg, stue"
+        },
+        "source": "User",
+        "comment": {
+          "Danish": "",
+          "Norwegian": "",
+          "German": "",
+          "English": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "7fad0cef-b2b7-47e7-b129-6cd10901e563",
+        "name": {
+          "Danish": "Brandhæmmende væg, 1. sal",
+          "English": "Fire-resistant walls, 1. floor",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "Danish": "",
+          "English": "",
+          "German": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "009229ee-676a-4abc-b121-97eef9fadaf4",
+        "name": {
+          "Danish": "Brandhæmmende væg, 2. sal",
+          "English": "Fire-resistant walls, 2. floor",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "German": "",
+          "Norwegian": "",
+          "English": "",
+          "Danish": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "0e0c9030-4864-463c-8106-3553a2ba7cb5",
+        "name": {
+          "Danish": "Brandhæmmende væg, Skråtag",
+          "English": "Fire-resistant walls, Pitched roof",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "English": "",
+          "Danish": "",
+          "Norwegian": "",
+          "German": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "7dbe239f-e32b-4900-b0e9-c65fabc3077d",
+        "name": {
+          "English": "Horizontal division, attic, iron",
+          "Danish": "Etageadskillelse, tagetage, kappedæk",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "English": "",
+          "German": "",
+          "Danish": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "c39bd3a0-4b2f-4c76-aafd-7cf74e509683",
+        "name": {
+          "English": "Horizontal division, from ground floor, iron",
+          "German": "",
+          "Danish": "Etageadskillelse, fra stueetagen, kappedæk"
+        },
+        "source": "User",
+        "comment": {
+          "English": "",
+          "German": "",
+          "Norwegian": "",
+          "Danish": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "0f8a6d17-f151-495d-9f80-58d7b2d31a25",
+        "name": {
+          "Danish": "Hovedtrappe, stue",
+          "English": "Main stairs, ground floor",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "German": "",
+          "Norwegian": "",
+          "Danish": "",
+          "English": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "366edb74-a0fa-452c-aaa3-ab8329bd01c9",
+        "name": {
+          "German": "",
+          "Danish": "Bagtrappe, stue",
+          "English": "Back stairs, ground"
+        },
+        "source": "User",
+        "comment": {
+          "English": "",
+          "Danish": "",
+          "German": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "11ca4b74-7469-461a-b4ad-7d2531145be4",
+        "name": {
+          "Danish": "Bagtrappe, fra 1. sal",
+          "English": "Back stairs, from 1. floor",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "English": "",
+          "Danish": "",
+          "German": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "e9f7dd77-f154-4994-abde-31e0eb9e5560",
+        "name": {
+          "Danish": "Hovedtrappe, fra 1. sal",
+          "English": "Main stairs, from 1. floor",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "German": "",
+          "Danish": "",
+          "Norwegian": "",
+          "English": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "3f7cf8f1-98f0-492e-9cd1-93d74cbf43a3",
+        "name": {
+          "Danish": "Skråtag, Zink",
+          "German": "",
+          "English": "Pitched roof, Zinc"
+        },
+        "source": "User",
+        "comment": {
+          "Danish": "",
+          "English": "",
+          "German": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "21715f93-b13c-41a4-80e2-db0691ac2cf5",
+        "name": {
+          "English": "Pitched roof, back stairs, Zinc",
+          "German": "",
+          "Danish": "Skråtag, bagtrappe, Zink"
+        },
+        "source": "User",
+        "comment": {
+          "Danish": "",
+          "German": "",
+          "English": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "4ed0ac9c-6a87-4310-84cb-7a96e39932f4",
+        "name": {
+          "English": "Windows, attic, staircase",
+          "Danish": "Vinduer, tagetage, opgang",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "English": "",
+          "German": "",
+          "Danish": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "cb1a9e8a-a3e6-46d4-a438-351fd13edbab",
+        "name": {
+          "English": "Windows, from ground floor",
+          "German": "",
+          "Danish": "Vinduer, fra stueetagen"
+        },
+        "source": "User",
+        "comment": {
+          "Danish": "",
+          "German": "",
+          "English": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "02004a62-97db-40bf-9ab4-81d8d5a0d790",
+        "name": {
+          "German": "",
+          "Danish": "Vinduer, fra 1. sal, opgang",
+          "English": "Windows, from 1. floor, staircase"
+        },
+        "source": "User",
+        "comment": {
+          "Danish": "",
+          "Norwegian": "",
+          "English": "",
+          "German": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "97bfc180-29e8-444d-a884-d386aca4eafc",
+        "name": {
+          "Danish": "Indv. døre, tagetage, opgang",
+          "English": "Internal doors, attic, staircase",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "English": "",
+          "Danish": "",
+          "German": "",
+          "Norwegian": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "74d2edd9-86b0-4845-8579-1be99f634c47",
+        "name": {
+          "German": "",
+          "English": "Front doors, ground floor, staircase",
+          "Danish": "Yderdør, stue, opgang"
+        },
+        "source": "User",
+        "comment": {
+          "German": "",
+          "Danish": "",
+          "Norwegian": "",
+          "English": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "a1c9c1ac-bfcd-4918-83e1-fe3eacb0d69e",
+        "name": {
+          "Danish": "Indv. dør, fra stueetagen",
+          "English": "Internal doors, from ground floor",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "Norwegian": "",
+          "Danish": "",
+          "English": "",
+          "German": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Node": {
+      "Element": {
+        "id": "d4b4adc2-519b-408d-b2b8-bc4edc9ad022",
+        "name": {
+          "English": "Internal doors, from 1. floor, staircase",
+          "Danish": "Indv. døre, fra 1. sal, opgang",
+          "German": ""
+        },
+        "source": "User",
+        "comment": {
+          "Norwegian": "",
+          "English": "",
+          "Danish": "",
+          "German": ""
+        },
+        "enabled": true,
+        "excluded_scenarios": []
+      }
+    }
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "b7395789-33ac-487e-9ba9-daa5d384348c",
+          "amount": 56.595,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "19ee65f3-f092-4093-9881-5b49eec51cff",
+      "ceff6d60-5025-4ae2-9af3-1d44ec414f7d"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "3d947398-3584-40d8-a488-2b89b866d844",
+          "amount": 75.075,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "e66f2d85-e03b-4d4a-a959-f7f0687e8e40",
+      "56e9da06-9e0a-4091-ab2c-473cb283f1a0"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "f8a3a063-2998-4c5c-a011-1b387226e218",
+          "amount": 9.9,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "7a8bdbce-832f-4b9c-8985-f669771b478d",
+      "ceff6d60-5025-4ae2-9af3-1d44ec414f7d"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "2726629a-13c5-4ad5-9d89-888e65732acf",
+          "amount": 118.624,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "8501c49d-74ac-4e7c-bd30-e536f967eca3",
+      "26b165f9-591d-4dbe-af2b-827515761ba2"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "684c4a3c-1ac4-4f9d-ac2c-a805e96ba3a2",
+          "amount": 34.848,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "b06594df-a166-46e8-b60c-9ca6d2629162",
+      "e87c04cd-5346-4b01-8a22-6b6e0b408655"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "8c6c5801-4718-405a-a2ed-5954e77a29d7",
+          "amount": 46.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "4522c982-0e1d-4263-b2c4-3427d1d3bf9b",
+      "26b165f9-591d-4dbe-af2b-827515761ba2"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "8c639f2b-2178-4cf5-a26d-9329dd0d24af",
+          "amount": 118.624,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "2140867b-1dc5-46c6-9d78-e8fb37d5f8b8",
+      "e87c04cd-5346-4b01-8a22-6b6e0b408655"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "a6179016-a6e1-4811-b4bd-ad6c7c80e48d",
+          "amount": 34.848,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "7dc7feef-5aad-4e91-a321-838d368260eb",
+      "ebb51ca4-6dbd-468c-862a-4171f1638bb6"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "f07fc7a9-e290-4a80-ac7a-756d12b54257",
+          "amount": 46.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "982dd343-0bda-4fa5-a536-0422c664dfda",
+      "e87c04cd-5346-4b01-8a22-6b6e0b408655"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "44a7ee87-41bb-4821-a762-07b5d5bc8481",
+          "amount": 28.799999999999997,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "4ee84260-52dc-4587-809b-dfd4af3d5ed6",
+      "e87c04cd-5346-4b01-8a22-6b6e0b408655"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "ae4bea80-f5c4-48c6-8129-26646ab53442",
+          "amount": 69.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "9a1f78a4-c0ae-41db-9aab-d5f3531b63c7",
+      "e87c04cd-5346-4b01-8a22-6b6e0b408655"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "df385ab6-3ee2-4044-926b-370b3c3f63e6",
+          "amount": 118.624,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "e2441b19-fb0d-4ecd-804a-d23fb022d93b",
+      "e87c04cd-5346-4b01-8a22-6b6e0b408655"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "c0fe3fd1-4102-4708-9e27-d962d8cad41d",
+          "amount": 34.848,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "5d255e68-2800-4aa8-88ca-80d5a38dc429",
+      "ebb51ca4-6dbd-468c-862a-4171f1638bb6"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "d79c0c88-b95e-4b57-b9df-1ee3b6c48297",
+          "amount": 47.4,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "1bcd4ba9-3ede-4d9e-b406-3456b034aad2",
+      "e87c04cd-5346-4b01-8a22-6b6e0b408655"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "46cb5eb3-918f-4fac-9912-3e834b463910",
+          "amount": 22.200000000000003,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "f81d6c5c-782c-4b7b-9a39-e4fca481e628",
+      "e87c04cd-5346-4b01-8a22-6b6e0b408655"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "afe07357-ff11-4022-b893-32c65d322a6d",
+          "amount": 12.3,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "27a7b742-af17-4781-b579-f963e556b28c",
+      "e87c04cd-5346-4b01-8a22-6b6e0b408655"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "977b9acb-72db-4066-8916-54c3eeb99dbf",
+          "amount": 31.799999999999997,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "bbc7ad27-2ff0-4580-9e21-e26e8a18d3c5",
+      "e87c04cd-5346-4b01-8a22-6b6e0b408655"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "b5ba51bc-9255-4db4-ab0e-5fbf6e49dae2",
+          "amount": 52.8,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "a80a4eab-8356-4f2a-9749-b4cded5b600f",
+      "ebb51ca4-6dbd-468c-862a-4171f1638bb6"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "d2efb89a-66df-4c90-838f-6bf49c3b08f4",
+          "amount": 66.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "4475d071-6a9b-4ac1-b825-31626336ab11",
+      "ebb51ca4-6dbd-468c-862a-4171f1638bb6"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "2db8ff4a-38b2-4e15-8455-cf52459d09c8",
+          "amount": 2.82,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "2be73ddb-43ec-4e0f-9b98-dbe09016f25f",
+      "e87c04cd-5346-4b01-8a22-6b6e0b408655"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "adc61619-2581-453f-bfe6-53e9d8c68589",
+          "amount": 227.03999999999996,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "9c623f73-e317-4615-8c98-292b07fb76bc",
+      "00a5e9c3-83b6-467d-9791-ded96a0c9b57"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "ab05549f-e345-464c-9163-2a93871135d3",
+          "amount": 232.32,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "ef3f75a6-eb3f-4cf3-85d6-0f10f4059e1a",
+      "73212f55-8d3a-417e-bedd-2f3dc4a69a4d"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "67b94ffe-4e13-4140-8f60-cb969f1f4c0f",
+          "amount": 116.16,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "f2985b19-db58-48c6-a030-3152d30a55d2",
+      "68e6e07f-9159-42ac-9005-6e4ac1cb07ff"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "65b17bdf-945c-47c8-8147-7fd73aa07dc1",
+          "amount": 477.312,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "c6831070-312b-4a75-bf0a-a4558bfffb23",
+      "a1102a29-f2f4-4c27-9d83-32ac52558416"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "2e32f45c-15df-4c85-a046-3fdef5b0cc15",
+          "amount": 21.824,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "63a169f5-558a-4e53-bb7d-4bbfaf32e78f",
+      "81b32229-c4ab-4e29-8918-6ede4bd611d3"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "b44c45bd-b159-4f8b-a4b4-580ccc02e19a",
+          "amount": 21.824,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "7fad0cef-b2b7-47e7-b129-6cd10901e563",
+      "81b32229-c4ab-4e29-8918-6ede4bd611d3"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "40562a10-530f-4c5c-861f-731f2004c7c1",
+          "amount": 22.528,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "009229ee-676a-4abc-b121-97eef9fadaf4",
+      "26b165f9-591d-4dbe-af2b-827515761ba2"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "4748b4e0-efe1-4977-aaa4-2897def38a48",
+          "amount": 31.328,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "0e0c9030-4864-463c-8106-3553a2ba7cb5",
+      "ebb51ca4-6dbd-468c-862a-4171f1638bb6"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "16bef176-9c67-4687-9d7f-9d08ed08c049",
+          "amount": 385.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "7dbe239f-e32b-4900-b0e9-c65fabc3077d",
+      "8421d2a4-44d5-4c17-beaa-cf2b9d35b5f9"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "273cbd0e-2bf9-45e2-bee2-8710e4ae5180",
+          "amount": 1056.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "c39bd3a0-4b2f-4c76-aafd-7cf74e509683",
+      "8421d2a4-44d5-4c17-beaa-cf2b9d35b5f9"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "092d6d48-02b0-4a50-9edb-ee7cbd72114c",
+          "amount": 33.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "0f8a6d17-f151-495d-9f80-58d7b2d31a25",
+      "268b4f15-6779-4617-9e27-5d659d226740"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "9be223eb-6fee-4e50-a284-8507c38c0d19",
+          "amount": 15.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "366edb74-a0fa-452c-aaa3-ab8329bd01c9",
+      "a11c29c4-893f-44e5-aefa-48c4a5d4f70d"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "177fba0d-3de2-4fe0-8f02-097aea09b62b",
+          "amount": 45.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "11ca4b74-7469-461a-b4ad-7d2531145be4",
+      "ed08dc76-b846-4a4d-b1a3-37b0b2cf745a"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "60ccc3a5-41d2-4a90-ad82-b784f34b6a5a",
+          "amount": 66.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "e9f7dd77-f154-4994-abde-31e0eb9e5560",
+      "44dfbcbd-6f3b-40f8-8662-3aac2c6632a1"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "c4d28337-b4fb-4f89-bb32-78832950cad1",
+          "amount": 616.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "3f7cf8f1-98f0-492e-9cd1-93d74cbf43a3",
+      "7d45aa2f-8631-411e-82be-f34094a42cd1"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "1280d316-e702-40e6-8662-e6a0cd639a3a",
+          "amount": 18.6,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "21715f93-b13c-41a4-80e2-db0691ac2cf5",
+      "7d45aa2f-8631-411e-82be-f34094a42cd1"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "6894d76f-1824-45d3-82da-95b98d36d561",
+          "amount": 2.4000000000000004,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "4ed0ac9c-6a87-4310-84cb-7a96e39932f4",
+      "d7e8829f-e05b-44de-84e0-6230d60c99a6"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "3ae8140c-413a-4f97-9d5b-0c6e6450e8b4",
+          "amount": 101.376,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "cb1a9e8a-a3e6-46d4-a438-351fd13edbab",
+      "d7e8829f-e05b-44de-84e0-6230d60c99a6"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "f87892c4-e5ff-48ac-b290-184968dc2957",
+          "amount": 14.4,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "02004a62-97db-40bf-9ab4-81d8d5a0d790",
+      "d7e8829f-e05b-44de-84e0-6230d60c99a6"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "8b95edee-7db2-4966-b127-8d2ea073daf0",
+          "amount": 5.04,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "97bfc180-29e8-444d-a884-d386aca4eafc",
+      "675e06c8-e05c-4c3c-9d7b-466dc4374cfa"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "ec79f50c-f7c2-43dd-bf89-ea052b6ad9da",
+          "amount": 12.0,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "74d2edd9-86b0-4845-8579-1be99f634c47",
+      "3d4b3908-9c3f-48a7-9720-11e8c9147c98"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "42de61b8-0691-4b4f-b951-af6d10bdf068",
+          "amount": 174.24,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "a1c9c1ac-bfcd-4918-83e1-fe3eacb0d69e",
+      "675e06c8-e05c-4c3c-9d7b-466dc4374cfa"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ElementToConstruction": {
+          "id": "1201242a-b960-4e12-bab6-ec02ad20af8f",
+          "amount": 40.32,
+          "enabled": true,
+          "special_conditions": false,
+          "excluded_scenarios": []
+        }
+      },
+      "d4b4adc2-519b-408d-b2b8-bc4edc9ad022",
+      "675e06c8-e05c-4c3c-9d7b-466dc4374cfa"
+    ]
+  }
+]

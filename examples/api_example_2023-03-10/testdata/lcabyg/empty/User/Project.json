@@ -1,0 +1,25 @@
+[
+  {
+    "Node": {
+      "Project": {
+        "id": "2f95c41e-0cc4-4b6e-90ac-ffa796aecd6d",
+        "name": {
+          "Danish": ""
+        },
+        "address": "",
+        "owner": "",
+        "lca_advisor": "",
+        "building_regulation_version": ""
+      }
+    }
+  },
+  {
+    "Edge": [
+      {
+        "MainBuilding": "bd294743-9c10-47c8-bce2-6b0593cb6852"
+      },
+      "2f95c41e-0cc4-4b6e-90ac-ffa796aecd6d",
+      "7791681b-40a2-401d-ac38-a2f73d736ab4"
+    ]
+  }
+]

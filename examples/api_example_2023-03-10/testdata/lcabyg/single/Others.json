@@ -1,0 +1,123 @@
+[
+  {
+    "Edge": [
+      {
+        "CategoryToElement": {
+          "id": "170dd8cd-9ff5-4642-82f3-675f2b5c2ce9"
+        }
+      },
+      "1a966c7c-fd7c-4abc-9d4b-307fdcd0cc88",
+      "654d4204-990f-4b34-a74d-47e87bcd0d16"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "CategoryToElement": {
+          "id": "92dbb979-500f-4de4-af08-be3f85653c4c"
+        }
+      },
+      "2ffe16fd-f0c9-4d31-a31a-f96d58d3df95",
+      "94e59b91-bbe0-413f-922a-a4fd2c187b6d"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "CategoryToElement": {
+          "id": "4e8410bc-f100-4b2f-893c-06ea32b9c815"
+        }
+      },
+      "10a52123-48d7-466a-9622-d463511a6df0",
+      "f5bb4ef6-49c3-4c5a-a0b9-2765ccfd4de9"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "CategoryToElement": {
+          "id": "6ed74ccb-54cf-495c-a34d-527c866e3e8e"
+        }
+      },
+      "59ab59a5-2482-45ae-85f1-d0e39e640712",
+      "37a8987d-7344-46b0-bc40-e314d5d44a7a"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "CategoryToElement": {
+          "id": "da544f27-ed17-4f69-b0db-be77d5cb3eac"
+        }
+      },
+      "d734712a-d27d-42c5-936f-98fe4c4df90b",
+      "91329025-d117-4a64-a577-58bb1d76d82e"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "CategoryToElement": {
+          "id": "5ba94e20-fa68-475a-8272-6f85b9ad7a1a"
+        }
+      },
+      "dcbf55db-3189-4d22-9b2b-2e27c057b363",
+      "05c32e5f-eef5-400d-aa36-5b6780fd76a8"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "CategoryToElement": {
+          "id": "65fe223e-c7e4-45e6-aee8-0c13768c2f23"
+        }
+      },
+      "9bd14e05-5fba-4ecb-ab41-7940a8a0dbdc",
+      "12c86f82-7c69-4cd3-b54f-9ead68120d35"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "CategoryToElement": {
+          "id": "c176f3e6-a9d8-4736-a88a-96df69cf62be"
+        }
+      },
+      "16528722-ecc6-4a69-a269-35ba3e1205b2",
+      "7c301d2c-a2bc-4eff-a08e-b5c020086ae8"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "CategoryToElement": {
+          "id": "21b619da-24a2-486f-a06f-34040cf54864"
+        }
+      },
+      "0fb0348e-2c54-40cb-a4c6-a9c1f2033b22",
+      "fab45b6c-aa08-40e0-baf3-8d6fac440358"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "CategoryToElement": {
+          "id": "fe7a8229-ded3-4ec3-b0dd-862bcc10e160"
+        }
+      },
+      "78d66965-b806-47d6-af5f-b278e737adaa",
+      "ca7f0525-c55b-4fff-a75e-bb8083919f39"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "CategoryToElement": {
+          "id": "fea1e762-c9ab-4f4b-9b06-334a11f57a69"
+        }
+      },
+      "cf702d99-5d5a-4973-ba9c-c4dbfae656a9",
+      "821a2fe7-8db9-4c02-b4b7-c726c4437a27"
+    ]
+  }
+]

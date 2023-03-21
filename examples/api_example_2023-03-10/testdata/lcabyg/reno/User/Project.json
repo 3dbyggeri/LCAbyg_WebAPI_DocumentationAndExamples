@@ -1,0 +1,25 @@
+[
+  {
+    "Node": {
+      "Project": {
+        "id": "54217857-ff47-4e77-b9cb-bf92e853ed69",
+        "name": {
+          "Danish": "Renoveringscase, EB1 eksempelbygning"
+        },
+        "address": "Miljøvej 99, 9999 Fremtidsbyen",
+        "owner": "BUILD",
+        "lca_advisor": "BUILD",
+        "building_regulation_version": ""
+      }
+    }
+  },
+  {
+    "Edge": [
+      {
+        "MainBuilding": "15867192-86b7-40a8-9936-83d9e998516d"
+      },
+      "54217857-ff47-4e77-b9cb-bf92e853ed69",
+      "92324ce2-1d65-4946-8ed1-3594197549a6"
+    ]
+  }
+]

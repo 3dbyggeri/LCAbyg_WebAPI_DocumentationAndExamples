@@ -1,0 +1,60 @@
+[
+  {
+    "Node": {
+      "Building": {
+        "id": "92324ce2-1d65-4946-8ed1-3594197549a6",
+        "scenario_name": "Original bygningsmodel",
+        "locked": "Unlocked",
+        "description": {
+          "German": "",
+          "Norwegian": "",
+          "Danish": "",
+          "English": ""
+        },
+        "building_type": "ResidentialBuildingMultiStoreyBuilding",
+        "heated_floor_area": 1056.0,
+        "gross_area": 1056.0,
+        "integrated_garage": 0.0,
+        "external_area": 0.0,
+        "gross_area_above_ground": 1056.0,
+        "person_count": 0,
+        "storeys_above_ground": 3,
+        "storeys_below_ground": 0,
+        "storey_height": 0.0,
+        "initial_year": 2015,
+        "calculation_timespan": 50,
+        "calculation_mode": "SC",
+        "outside_area": 0.0,
+        "plot_area": 0.0,
+        "energy_class": "LowEnergy"
+      }
+    }
+  },
+  {
+    "Edge": [
+      {
+        "BuildingToRoot": "bc35b94d-b8c0-4b8c-9bf3-3f63acc94063"
+      },
+      "92324ce2-1d65-4946-8ed1-3594197549a6",
+      "216cf5d6-3e9d-43ec-b0d8-5aee02240c28"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "BuildingToOperation": "0c35b94d-b8a0-4bec-92f3-3463acc94064"
+      },
+      "92324ce2-1d65-4946-8ed1-3594197549a6",
+      "0338d31e-3876-440d-a88c-2daa2dd81942"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "BuildingToDGNBOperation": "73c9f9bd-b088-452b-85e5-b301a11ad7e8"
+      },
+      "92324ce2-1d65-4946-8ed1-3594197549a6",
+      "ec3119af-56be-4204-b755-aa356b6f63f7"
+    ]
+  }
+]

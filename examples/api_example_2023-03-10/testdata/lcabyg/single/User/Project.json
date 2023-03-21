@@ -1,0 +1,26 @@
+[
+  {
+    "Node": {
+      "Project": {
+        "id": "e9e6e798-390e-4419-a1fa-3b46a8ba5b8d",
+        "name": {
+          "Danish": "Enfamiliehus, eksempelbygning",
+          "English": "Single-family house, example"
+        },
+        "address": "Miljøvej 99, 9999 Fremtidsbyen",
+        "owner": "BUILD",
+        "lca_advisor": "BUILD",
+        "building_regulation_version": "BR2018"
+      }
+    }
+  },
+  {
+    "Edge": [
+      {
+        "MainBuilding": "15867192-86b7-40a8-9936-83d9e998516d"
+      },
+      "e9e6e798-390e-4419-a1fa-3b46a8ba5b8d",
+      "915c5162-93bc-49c0-bdaf-9f470b4c7996"
+    ]
+  }
+]

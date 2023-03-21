@@ -1,0 +1,27 @@
+[
+  {
+    "Node": {
+      "ConstructionProcess": {
+        "id": "349738da-9747-4d5c-b508-2a810317166f"
+      }
+    }
+  },
+  {
+    "Edge": [
+      {
+        "ProcessToInstallation": "dd928199-b70a-43f8-8556-4f740dccd1ef"
+      },
+      "349738da-9747-4d5c-b508-2a810317166f",
+      "020cc362-536b-484e-b8f9-6507b40ab675"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ProcessToTransport": "15867192-86b7-40a8-9936-83d9e998516e"
+      },
+      "349738da-9747-4d5c-b508-2a810317166f",
+      "915c5162-93bc-49c0-bdaf-9f470b4c7998"
+    ]
+  }
+]
