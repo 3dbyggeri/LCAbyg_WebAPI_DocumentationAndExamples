@@ -6,3 +6,5 @@ Repo for collecting the documentation and examples for the Danish software LCAby
 1. Register on https://api.lcabyg.dk/da/
 2. Upon successful registration, you should use the same account username and password in the Login API (you can find it in the postman collection above) request (just replace values in the body). That access token can be then used for authentication for every other API call in the collection.
 3. Example files (python & JSON) can be found in this repo and on the official website above.
+
+4. Fastest way to start a Job is to open the Job (POST) request, copy paste one of the encoded input_blobs from "examples/input_blob_test_files/" folder and Send request. (these test input_blobs are from the example JSON files provided by LCAbyg)
